@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+<name>ros_hw_pub_sub</name>
+<version>0.1.0</version>
+<description>ROS turtorial package to learn the topic</description>
+<license>Apache 2.0</license>
+<author email="chuandkim@gmail.com">Seongmin Chu</author>
+<maintainer email="chuandkim@gmail.com">Seongmin Chu</maintainer>
+<url type="website">https://github.com/smChu</url>
+<url type="repository">https://github.com/smChu/ROBIT_Intern_CSM_HW_repo</url>
+<url type="bugtracker">https://github.com/smChu/ROBIT_Intern_CSM_HW_repo</url >
+<buildtool_depend>catkin</buildtool_depend>
+<depend>roscpp</depend>
+<depend>std_msgs</depend>
+<depend>message_generation</depend>
+<export></export >
+</package>
